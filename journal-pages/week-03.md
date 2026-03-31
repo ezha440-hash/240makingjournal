@@ -16,6 +16,18 @@ I haven't started yet during this time. But I looked at my peer's work which gav
 
 Through digital and analogue approaches, explore how to access, filter, and translate live data into visual and material forms. These activities build on the coding fundamentals from Experiment 2, while also introducing analogue practices rooted in rule-based and generative design.
 
+We explored with curl, which is a free and open-source command line tool for transferring data over the Internet. Allowing user to send a request to a web address and shows what comes back. We worked with live data, an example being looking at the weather here in auckland. 
+
+![Alt text](../assets/week-03/akl.png)
+
+Also places like Tokyo and Shanghai, I have also managed to explore and change the languege of which the data pops out on. 
+
+![Alt text](../assets/week-03/tk.png)
+Tokyo weather 
+![Alt text](../assets/week-03/SH.png)
+Shanghai weather
+
+I found this very interesting since its all worked in the windows terminal. 
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*
