@@ -15,11 +15,11 @@ We devised a short questionnaire of 5 questions to ask every member of the group
 Something we noticed with the question is that it all had a value of time, something to do with a duration. which was interesting. 
 we then answered the questions using post-it notes. which remained anonymous.
 
-`![Alt text](../questions.jpeg)`
-`*Here are the questions we wrote*`
+![Alt text](../assets/week-01/questions.jpeg)
+*Here are the questions we wrote*
 
-`![Alt text](../postit.jpeg)`
-`*And here are the post-it note answers.*`
+![Alt text](../assets/week-01/postit.jpeg)
+*And here are the post-it note answers.*
 
 we then go on to produce a collective data visualisation on a single sheet of paper. using different colored pens to represent each memeber. keeping in mind how data should include empathy and imperfection,
 
@@ -29,19 +29,19 @@ so something simple we agreed on is, sleep could be a line, screentime could be 
 
 **we wanted the visualisation of our collected data to look less tally-like, or anything that just screams "this is a data chart". But we did need to take into consideration regarding the unit of the data. as mentioned earlier. most of them has a common time value. so we chose to draw a line across the paper to represent 24 hours. one end of the line being unfilled circle, and the other filled.  we tried to use as minimal text and number as possible.
 
-`![Alt text](../assets/240 werk/drawing.jpeg)`
-`*the drawing we did to convey our data*`
+![Alt text](../assets/week-01/drawing.jpeg)
+*the drawing we did to convey our data*
 
-S、omething I noticed while watching each person draw out their data. most seemed to draw under the first person that went. which lead the page to look "too clean" and the point of the exercise was lost.
+Something I noticed while watching each person draw out their data. most seemed to draw under the first person that went. which lead the page to look "too clean" and the point of the exercise was lost.
 
 We then swapped data with the group behind us, to decode each other's portrait. 
 
-`![Alt text](../assets/240 werk/other team.jpg)`
-`*The other team's data portrait*`
+![Alt text](../assets/week-01/otherteam.jpg)
+*The other team's data portrait*
 
 First glance, we first noticed that one of the possible questions are, how far does each of their teammate live from uni? (how far are you from auckland central) how do you get to uni? (do you drive to uni?) also do you listen to music while you drive. Something that did end up confusing us is that there is a circle beside the car each teammate drew. another also has a green blob. Which we couldn't figure out if it was a pet? or if it meant food...
 
-**Something that I learnt about these people in this group is that some lives close to central, and some lives north from central. most of them drive to uni. and we later found out the green blob means the feeling they had at the time. (green means happy). Nothing really surprised me, we also decoded what the questions were pretty fast on. I think it is a bit hard trying to tell who is who since they are all stick figures in similar colors.
+Something that I learnt about these people in this group is that some lives close to central, and some lives north from central. most of them drive to uni. and we later found out the green blob means the feeling they had at the time. (green means happy). Nothing really surprised me, we also decoded what the questions were pretty fast on. I think it is a bit hard trying to tell who is who since they are all stick figures in similar colors.
 
 ## Independent Data Portrait
 
@@ -51,21 +51,10 @@ I wanted to do "everytime I check the time" as the topic. I would record when I 
 
 Since I was home most of the week, I just recorded out of a page of a notebook. This was recorded over the course from Sunday all the way to Thursday. 
 
+![Alt text](../assets/week-01/datap.jpg)
+
 I chose to record the time, what I was doing, and how I was feeling in the moment. It started out okay, I was doing uni work, and I noted how I am annoyed, or felt neutral, or relaxed. I realized now finished the collecting part. I was mostly neutral, which was surprising (considering I am a very emotional person) There were parts where I was stressed out about assignments, or that there was an event I was excited about. 
 
 I also realized that the more I started to record, the more it becomes a conscious thing. And the collection begun to be more frequent.
 
 I started to think about how I wanted to visualize my data. I knew I wanted to use star shapes to mark each time I felt something. using scale as part of expression. 
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
