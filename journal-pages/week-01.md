@@ -58,3 +58,7 @@ I chose to record the time, what I was doing, and how I was feeling in the momen
 I also realized that the more I started to record, the more it becomes a conscious thing. And the collection begun to be more frequent.
 
 I started to think about how I wanted to visualize my data. I knew I wanted to use star shapes to mark each time I felt something. using scale as part of expression. 
+
+![Alt text](../assets/week-01/data%20drawing%201.jpg)
+
+This is what I envisioned to be my data portrait, something almost whimsical..?

@@ -27,16 +27,17 @@ Tokyo weather
 ![Alt text](../assets/week-03/SH.png)
 Shanghai weather
 
-I found this very interesting since its all worked in the windows terminal. 
-## Images & Media
+I found this very interesting since its all worked in the windows terminal. I did however struggle with finding the moon phases and synonym. 
 
-*Use the format below to embed images from your assets folder:*
+I also looked at how to draw with the weather, using a specific code I could see how the drawing change. 
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![Alt text](../assets/week-03/蓝圈.png)
+This is what the original code looks like, 
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+![Alt text](../assets/week-03/天蓝.png)
+And this is after I changed some numbers, which makes the color lighter. I also tried putting through my own codes. which didn't work as a function and I couldn't figure out why. It irratated me alot. 
 
-## AI Usage Statement
+Besides this, I looked at ISS Tracker, this sketch calls the API every 5 seconds and updates a dot and text on the canvas.
+![Alt text](../assets/week-03/dot.png)
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+## Indenpendent study

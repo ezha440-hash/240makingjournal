@@ -68,3 +68,5 @@ I changed the colors of the stars as well to have a better visual representation
 Based on the interaction of my peers, they commented about how they think its "cute" and also really liked the stars. "it's quite fun to just click, kinda like a fidget toy" was one of the comments. 
 
 However, I do think there should be more than just pressing buttons. I tried adding more to the code and quite frankly it just didn't look or feel as good. I think if I were given the opportunity to do another data, I would record over a longer period of time, while also making the interactive part more fun and engaging. 
+
+I do think this is a very fun and different way to express data, its something that a hand drawn image couldn't do. 
