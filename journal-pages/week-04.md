@@ -96,4 +96,4 @@ I think an assumption the AI made about the data and audience is that it went fo
 
 I really liked the bubble representation of the data, just because I was expecting more ugly, boring looking graph, but this was actually really cute and *bubbly* (sorry) I also think the colors worked really well with eachother despite it was used in the stacked graph earlier. 
 
-Something I would do differently if I were to build this without AI would be making it interactable, although the bubbles are cute they just kinda float. And I fear it's not exactly related to what the data is originally about. I think there should be a better visual representation of the data. Perhaps more game like? 
+Something I would do differently if I were to build this without AI would be making it interactable, although the bubbles are cute they just kinda float. And I fear it's not exactly related to what the data is originally about. I think there should be a better visual representation of the data. Perhaps more game like.

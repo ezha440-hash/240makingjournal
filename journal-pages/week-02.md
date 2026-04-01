@@ -67,10 +67,4 @@ I coded based off the reference that was provided to me with structure garden, a
 
 I changed the colors of the stars as well to have a better visual representation. neutral being gray, happy is yellow, orange is for anxious and pink is for tired. the stars each have different shapes and also will move around on the canvas near its designated time (more like bobbing up and down) and the interaction is that when clicking on the canvas with the mouse it will generate more stars at random.
 
-![Alt text](../assets/week-02/morestarz.png)
-
-Based on the interaction of my peers, they commented about how they think its "cute" and also really liked the stars. "it's quite fun to just click, kinda like a fidget toy" was one of the comments. 
-
-However, I do think there should be more than just pressing buttons. I tried adding more to the code and quite frankly it just didn't look or feel as good. I think if I were given the opportunity to do another data, I would record over a longer period of time, while also making the interactive part more fun and engaging. 
-
 I do think this is a very fun and different way to express data, its something that a hand drawn image couldn't do. 
