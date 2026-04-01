@@ -70,7 +70,7 @@ For my indenpendent study, I wanted to see what the weather is like in Shanghai,
 I was able to use what I leanrt in class to add Noise() to the original function.
 
 ### **How does my map data values to visual properties (colour, size, position, shape, movement)?**
-##
+
 The model uses a combination of direct data to map data to visual propertie. For Colour,The background is mapped to humidity.
 
 'background(humidity + noiseHumidity, 100, 200)'
@@ -90,7 +90,7 @@ This model introduces simulated movement through Noise() rather than real-time d
 While the API data is static (called once in preload), the visualization "moves" by adding noise offsets to the temperature, humidity, wind, and pressure values. This creates a smooth, organic flow in the visuals that mimics the rhythm of changing weather, even though the actual data points remains the same.
 
 ### **What does the visualisation reveal about the data that numbers alone cannot?**
-##
+
 Numbers alone tell the specific value (e.g., "humidity is 65%"), but this visual reveals relationships and context.By mapping humidity to the background color, temperature to the circle size, and wind speed to the length of a rectangles, the viewer can immediately see which variable is currently "dominant." If the circle is huge but the bar is short, the viewer understands it is a hot but calm day without needing to read numeric values.
 
 The introduction of Noise() suggests that the weather is not a static number but a fluid system. Even though the underlying data doesn't change in this specific code, the visualization implies that real weather fluctuates subtly around a baseline.
