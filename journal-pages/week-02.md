@@ -46,4 +46,17 @@ Somthing I learnt through this would be how to make codes with better interactio
 
 We also looked at Github for the first time, which is a web platform that hosts Git repositories online, making it easy to store, share, and collaborate on projects. 
 
-There is also the option to customize the websites. Which is something I definitely want to look into later on。
+There is also the option to customize the websites. Which is something I definitely want to look into later on.
+
+## Independent Study
+I translated my data into code, and settled on what I wanted to do for the live data portrait. 
+
+![Alt text](../assets/week-02/processed.png)
+
+I mostly settled on the time and emotions from the days. And because it is needed for the data to be interactive, I take inspo from the "data structure garden". I liked how the flowers moved and it was fun to click onto the canvas as an interaction.
+
+![Alt text](../assets/week-02/flower.png)
+
+I used vibes coding for my data portrait. I used DeepSeek to help me breakdown parts of the structure coding down for me when I didn't understand how or why that function works. I also tried changing some of the data to see what would change. 
+
+![Alt text](../assets/week-02/starz.png)
