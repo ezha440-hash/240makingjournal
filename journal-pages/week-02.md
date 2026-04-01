@@ -60,3 +60,11 @@ I mostly settled on the time and emotions from the days. And because it is neede
 I used vibes coding for my data portrait. I used DeepSeek to help me breakdown parts of the structure coding down for me when I didn't understand how or why that function works. I also tried changing some of the data to see what would change. 
 
 ![Alt text](../assets/week-02/starz.png)
+
+I changed the colors of the stars as well to have a better visual representation. neutral being gray, happy is yellow, orange is for anxious and pink is for tired. the stars each have different shapes and also will move around on the canvas near its designated time (more like bobbing up and down) and the interaction is that when clicking on the canvas with the mouse it will generate more stars at random.
+
+![Alt text](../assets/week-02/morestarz.png)
+
+Based on the interaction of my peers, they commented about how they think its "cute" and also really liked the stars. "it's quite fun to just click, kinda like a fidget toy" was one of the comments. 
+
+However, I do think there should be more than just pressing buttons. I tried adding more to the code and quite frankly it just didn't look or feel as good. I think if I were given the opportunity to do another data, I would record over a longer period of time, while also making the interactive part more fun and engaging. 
