@@ -37,7 +37,25 @@ This is what the original code looks like,
 ![Alt text](../assets/week-03/天蓝.png)
 And this is after I changed some numbers, which makes the color lighter. I also tried putting through my own codes. which didn't work as a function and I couldn't figure out why. It irratated me alot. 
 
+**UPDATE**
+
+I actually did figure it out. I may be slow. 
+
+I noticed that it wasn't about the numbers but to reset the the latitude and longitude in the weather forecast API, and reselected the current temp, current humidity and current wind. 
+
+![Alt text](../assets/week-03/silver.png)
+
+The area set to Silverdale, in auckland 
+
+I couldn't figure out how to add ranom() and noise() function to the code. So I did vibe coding, and this is what I got:
+
+![Alt text](../assets/week-02/hi.gif)
+
+which made it look really funky while it moved. I could also change the timeoffset to make it faster.
+
 Besides this, I looked at ISS Tracker, this sketch calls the API every 5 seconds and updates a dot and text on the canvas.
 ![Alt text](../assets/week-03/dot.png)
 
 ## Indenpendent study
+
+For my indenpendent study, I wanted to see what the weather is like in Shanghai, so I started looking in open meteo. I changed the latitude and longitude to Shanghai, China and reset the timezone to auto detect. Then I picked out the variables, being current temp, relative humidity, wind speed, and sea level pressure. 
