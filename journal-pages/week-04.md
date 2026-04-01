@@ -34,18 +34,37 @@ And if you’re not, you’re just… not in the game.”**
 --Ollama, on modern day bible
 
 In comparison to any other AI that is out there, I put the same prompt in Deepseek to see what I'm given, 
+
 ![Alt text](../assets/week-04/Deep.png)
+
 which is...boring. And its more updated with the more modern day slangs. If I were to compare these two, It would feel like ollama is more innocent than Deepseek lol. I mean they are both corny as hell but some how deepseek is worse. 
 
-## Images & Media
+We also looked at NotebookLM, which is a Google-powered AI research and note-taking tool that uses Gemini 2.0 Flash to analyze uploaded documents, including PDFs, Google Docs, and websites. It grounds its answers specifically in your provided sources, reducing hallucinations and allowing users to create summaries, Q&As, study guides, and audio overviews.
 
-*Use the format below to embed images from your assets folder:*
+In my NotebookLM, I provided a link to my blog, a website about  Nathalie Miebach, An API about random cat facts, and a recent project I was interested in, made by an artist named Janny Baek. I also wrote about 
+- The experiment you found most interesting, and why 
+- A theme or idea you keep coming back to
+- Something you’re curious about but haven’t had a chance to explore yet
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![Alt text](../assets/week-04/note.png)
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+I also asked the chat questions about my resources, 
+![Alt text](../assets/week-04/1.png)
+![Alt text](../assets/week-04/2.png)
+![Alt text](../assets/week-04/3.png)
+![Alt text](../assets/week-04/4.png)
 
-## AI Usage Statement
+I found it interesting because it goes through only what I have fed it, (so all the info about what Im interested in) and it provided insights and suggestions to what I could possibly do. Instead of adding outside resources, which usually can be unrelable. I think this is a good tool to help when you are stuck at a block when looking at what to design. I would like to do more experiments with this later in the future. 
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+## Individual Study
+For this week's individual study, I chose a public dataset about life in Aotearoa New Zealand and use cloud-based AI tools to explore, interpret, and represent the data. The challenge is to go beyond a single prompt, working through sustained dialogue with the AI, directing its decisions, and critically evaluating its outputs.
+
+I found one on catalogue.data.govt.nz called "Felt Classic". A 38 questions survey to describe the respondent's experience during an earthquake in New Zealand. This dataset is based on paper questionnaires. This database was closed in 2016 and substituted by "Felt Detailed" database, currently ongoing.
+
+![Alt text](../assets/week-04/felt.png)
+
+Then I put it through ChatGPT, asking it to explain what is in the dataset: what the columns mean, what the values represent, how much data there is, and what is missing or incomplete.? along with What stories might this data contain? What questions could it answer? What biases or gaps are present? Who collected this data, and for what purpose?
+
+![Alt text](../assets/week-04/break.png)
+
+It broke down each question with short summerized answers. The “Felt Classic” dataset is a large collection of 856,746 self-reported earthquake experiences gathered in New Zealand between 2004 and 2016. It consists of 38 survey-based columns, including a mix of open-ended responses, single-choice, and multiple-choice questions covering earthquake details, personal experiences, building characteristics, and observed damage. The values mainly represent subjective human observations, such as perceived shaking intensity and damage levels, rather than scientific measurements. While the dataset is rich and useful for understanding how people experience earthquakes and how damage varies across environments, it has several limitations: some questions and formats are missing or changed over time, many responses include “don’t know” answers, and the data is biased towards people who chose to report their experiences. Collected by GeoNet to support earthquake intensity analysis and public safety research, the dataset can reveal patterns in human perception, building resilience, and disaster impact, but must be interpreted carefully due to gaps and inconsistencies.

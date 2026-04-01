@@ -57,7 +57,11 @@ I mostly settled on the time and emotions from the days. And because it is neede
 
 ![Alt text](../assets/week-02/flower.png)
 
-I used vibes coding for my data portrait. I used DeepSeek to help me breakdown parts of the structure coding down for me when I didn't understand how or why that function works. I also tried changing some of the data to see what would change. 
+I used vibes coding for my data portrait. I used DeepSeek to help me breakdown parts of the structure coding down for me when I didn't understand how or why that function works. (including what didn't work) I also tried changing some of the data to see what would change. 
+
+I coded based off the reference that was provided to me with structure garden, and just changed a bit using deepseek.
+
+![Alt text](../assets/week-02/garden.png)
 
 ![Alt text](../assets/week-02/starz.png)
 
