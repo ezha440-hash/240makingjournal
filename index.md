@@ -5,7 +5,7 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+*This class explore data as a material for design, covering a broad range of methods for crafting digital, physical and interactive artefacts from data sources. I want to learn the basics of coding and is looking forward to projects in the future :).*
 
 ---
 
