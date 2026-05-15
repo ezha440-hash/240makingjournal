@@ -35,8 +35,24 @@ Take turns (5 minutes each) to walk your partner through your proposition. Colle
 
 Drawing on the feedback from your progress report and the critical design proposition you received, write a short reflective summary for your journal (around 300 words). Identify the most significant feedback and ideas you encountered, the decisions you are making in response, and how these will shape your project going forward. This is about translating the critique into a clear direction, not summarising everything that was said.
 
+One of the biggest concern I had for my proposition is the lack of direction. The starting point for me while creating this project was purely so that users would have fun interacting and nothing more. It was obvious that I had no clear future scenario. 
+
+I was then proposed to think of creating a work surrounding questions like "I think we need this...because" or mentioning/ looking into maybe the lack of access. Another interesting topic that was brought up to me was to look at researching the empathy epidemic (since my project is on emotions) that I could pivot more into creating a commentary project. 
+
+Besides this, concerns about interactivity was also brought up. Question like "how many are willing to start on a blank state?" looking at more research if people are more open to participate in activities that already have participants? Which had me thinking to add existing data to the project acting as a starting point for the users. Another point brought up was the phenomenon of my instilation, is it meant to be comfy or uncomfy? control how to get my data and what could possibly help with the interaction, how will this influence users to participate into my data? 
+
 2. Project Development
 
 Building directly on your reflective summary, apply the decisions you have identified, whether these concern your data source, your visualisation approach, the form your work will take, or something else.
 
 Address any technical skill gaps that are relevant to this direction, and document your learning alongside your making, including both textual and visual evidence. Explain what you tried, what you learnt, and how this has moved your project forward.
+
+Based on all the feedback I have recieved, I was suggested a development for my instilation. 
+
+Current project proposol have elements of being live, responsive, representation of user emotional data. 
+
+Redesign Proposal: Addition to sensory input of touch/ drag 
+
+The reasoning for this is that so it would have additional layers of interactivity between people, for example, being able to pat the sad color blob to make it happy- offering a form on indirect support and care for others visual color. 
+
+I think this is a very interesting take on my project. I have mentioned in my key developments/ checkpoints that I wanted to make my current prototype more interactable, adding animations to make it more user friendly or easy to understand. 

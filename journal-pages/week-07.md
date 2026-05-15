@@ -19,6 +19,8 @@ Return to your own sketch and read through the responses you've received. Make n
 
 Redraw or revise your sketch, using the responses to evolve your ideas. Document these developments for your journal entry.
 
+--add image before text 
+
 2. Making Sprint (45 mins)
 
 Using rapid prototyping — short cycles of iteration, focused making, and an experimental mindset — spend 45 minutes producing your first hands-on experiment with your dataset and visualisation approach.
@@ -27,6 +29,16 @@ Make something visible from your data, however rough. The goal is a testable thi
 
 Refer to your Week 6 skills roadmap to guide what you work on. Collect documentation for your journal as you go.
 
+For the making sprint I wanted to make something that is useful for my project, Since I have something needed for color picking, I thought to use p5.js in order to make a color wheel. 
+
+--img 
+
+I used vibe coding for this just to get started. It did show up a wheel, but it didn't have the picker. And also scale wise it was a bit too big. 
+
+--img 
+
+So I redid this, the second variation is on a much smaller scale. Also have a box on the bottom which shows what color is picked from the wheel. This seems the most ideal and is closer to what I imagine the project needs. 
+
 3. 'What if' Variations (45 mins)
 
 In pairs, share the outcome of your Making Sprint. Walk your partner through what you made, what you were trying to achieve, and where you ended up.
@@ -34,6 +46,8 @@ In pairs, share the outcome of your Making Sprint. Walk your partner through wha
 Your partner will then propose three 'what if' variations: alternative and provocative directions your project could take. The aim is to encourage critical, speculative, and experimental thinking.
 
 Choose one of the variations your partner proposed and produce a drawing or plan that explores this direction. Include notes and annotations to explain how it differs from your current approach and what it might open up for your project. Document this for your journal entry.
+
+
 
 ## Independent Study
 
@@ -50,3 +64,5 @@ key developments and decisions so far
 visual research/references
 two or three specific questions you want feedback on
 Come to class ready to present and to receive feedback from peers and teachers.
+
+https://canva.link/d7uxbn7fpti66iy 
