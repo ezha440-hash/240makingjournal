@@ -19,7 +19,7 @@ Return to your own sketch and read through the responses you've received. Make n
 
 Redraw or revise your sketch, using the responses to evolve your ideas. Document these developments for your journal entry.
 
---add image before text 
+![alt text](../assets/week-07/draw.jpg)
 
 2. Making Sprint (45 mins)
 
@@ -31,11 +31,11 @@ Refer to your Week 6 skills roadmap to guide what you work on. Collect documenta
 
 For the making sprint I wanted to make something that is useful for my project, Since I have something needed for color picking, I thought to use p5.js in order to make a color wheel. 
 
---img 
+<iframe src="https://editor.p5js.org/ezha440/full/PgpsG3wj9" height= "400" width= "400"></iframe>
 
 I used vibe coding for this just to get started. It did show up a wheel, but it didn't have the picker. And also scale wise it was a bit too big. 
 
---img 
+<iframe src="https://editor.p5js.org/ezha440/full/wM87cP3Um" height= "400" width= "400"></iframe>
 
 So I redid this, the second variation is on a much smaller scale. Also have a box on the bottom which shows what color is picked from the wheel. This seems the most ideal and is closer to what I imagine the project needs. 
 
@@ -45,8 +45,11 @@ In pairs, share the outcome of your Making Sprint. Walk your partner through wha
 
 Your partner will then propose three 'what if' variations: alternative and provocative directions your project could take. The aim is to encourage critical, speculative, and experimental thinking.
 
-Choose one of the variations your partner proposed and produce a drawing or plan that explores this direction. Include notes and annotations to explain how it differs from your current approach and what it might open up for your project. Document this for your journal entry.
+I was suggested what if I had the option to make this more interactable？
 
+![alt text](../assets/week-07/7.jpg)
+
+Choose one of the variations your partner proposed and produce a drawing or plan that explores this direction. Include notes and annotations to explain how it differs from your current approach and what it might open up for your project. Document this for your journal entry.
 
 
 ## Independent Study

@@ -87,13 +87,7 @@ Use the next 35 minutes to make focused progress on your project. Work towards y
 
 For my sprint, currently I think the main problem as adding a functional colour wheel into figma. I have tried making it into a component on figma, but it didn't have the effect I wanted. So I want to look at adding a p5.js. For faster results, I went and used vibe coding. 
 
-<iframe src="https://editor.p5js.org/ezha440/full/PgpsG3wj9" height= "400" width= "400"></iframe>
-
-This first one was a simple colour wheel, no picker no nothing, and also a bit too big. 
-
-<iframe src="https://editor.p5js.org/ezha440/full/wM87cP3Um" height= "400" width= "400"></iframe>
-
-I then asked the prompt to make a smaller one, this time with the picker and the hex box on the bottom. Close, but it feels a bit laggy. I wonder if it's because it's running too much elements at once? 
+I have dones similar sprints in the previous weeks, so I continued and refined. 
 
 <iframe src="https://editor.p5js.org/ezha440/full/bYQ6WT6HT" height= "400" width= "400"></iframe>
 

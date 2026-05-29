@@ -7,18 +7,18 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Documentation 
+1. Journal Review
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+Work in pairs. Using the Journal Checklist Download Journal Checklist, review your partner's journal entries for weeks 6–10, checking for clarity and completeness, an effective balance of visuals and text, and correct technical implementation. Share your observations with your partner.
 
-## Images & Media
+Then re-read your own journal entries in preparation for the Studio Consultation. Identify three key moments (e.g. discoveries, challenges, decisions, feedback) that shaped your project direction. Write 1–2 sentences about each of these.
 
-*Use the format below to embed images from your assets folder:*
+2. Practice Consultations
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+Work in pairs. Take turns interviewing each other using the question prompts on the class slides, following the same format as the Studio Consultation (10 minutes each). The interviewer should use the prompts as a guide rather than a script, ask follow-up questions, and let the conversation move between topics naturally.
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+Reflect on how you responded to the questions. Consider whether your answers were focused and coherent, and whether you were able to articulate how your work positions itself within broader ideas about data. Write 2–3 sentences about what you want to improve on, and keep these notes for your journal. Then find a new partner and repeat.
 
-## AI Usage Statement
+3. Showcase Planning
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+Add yourself to the showcase Miro boardLinks to an external site. and mark your preferred location to install your work. Coordinate with the class to agree on a plan. Use the board, along with Canvas/Discord/etc. Be ready to install your work at 2 pm on Friday 05 June.
