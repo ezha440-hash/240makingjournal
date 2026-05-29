@@ -71,13 +71,36 @@ Now the hard part is getting this to connect to the p5.js sketch. With the rapid
 
 I found a youtube video from David Bouchard (David Bouchard, 2021), and learnt how to publish my data set into something public and copying the link into a CSV link. 
 
-I also learnt a new function, called preload on p5.js. Which is A function that's called once to load assets before the sketch runs.(Preload, 2024)
+I also learnt a new function, called preload on p5.js. Which is A function that's called once to load assets before the sketch runs.(Preload, 2024) Along with loadTable function, which reads the contents of a file or URL and creates a p5.Table object with its values. If a file is specified, it must be located in the sketch's "data" folder. The filename parameter can also be a URL to a file found online. By default, the file is assumed to be comma-separated (in CSV format). Table only looks for a header row if the 'header' option is included. (LoadTable, 2025)
 
 I bumped into some issues though however, In the video he used the consol to make his form on the scripting tool he's using. I soon realized I don't have that so looked for other options. 
+
+I looked into more research, so in order to pull data from Google Sheets into p5.js without a console, publish your sheet as a CSV and use p5's loadTable() function inside preload(). This allows me to store sheet data directly in variables and display it on your canvas. (David Bouchard, 2021) 
+
+![alt text](../assets/week-10/66.png)
+
+I added this to my previous sprint (the coloured blob) 
+
+Obviously this didn't do anything because I didn't set up the other functions. So I had to google some more 
+
+![alt text](../assets/week-10/set.png)
+
+There is something called setInterval() function which allows me to grab new data everytime the source is refreshed. (at least thats how I understand this) I looked at the over view that is provided, and also looked into other examples that are online. 
+
+<iframe src="https://editor.p5js.org/re7l/full/zt2ZJrpgo" height= "400" width="400"></iframe>
+
+Using this one for example by re71 on p5.js, This function cycles through an array of words every second by incrementing the index each time changeWord() is called (by setInterval), and when the index reaches the end of the array it resets to 0, creating a looping word display at the center of the canvas.
+
+![alt text](../assets/week-10/eq.png)
+
+**So could I apply the same logic with my data sheet?**
 
 ## **Reference**
 David Bouchard. (2021, September 21). RTA842 - 3.1 - Working with spreadsheets in p5.js. YouTube. https://www.youtube.com/watch?v=EU7SvAyybOE
 
+loadTable. (2025). P5js.org. https://p5js.org/reference/p5/loadTable/
+
+‌
 preload. (2024). P5js.org. https://p5js.org/reference/p5/preload/
 
 ‌

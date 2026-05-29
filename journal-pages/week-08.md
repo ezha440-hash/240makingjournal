@@ -54,9 +54,12 @@ Current project proposol have elements of being live, responsive, representation
 
 Redesign Proposal: Addition to sensory input of touch/ drag 
 
---> add img here 
+![alt text](../assets/week-08/1.jpg)
+
+![alt text](../assets/week-08/2.jpg)
 
 The reasoning for this is that so it would have additional layers of interactivity between people, for example, being able to pat the sad color blob to make it happy- offering a form on indirect support and care for others visual color. 
 
 I think this is a very interesting take on my project. I have mentioned in my key developments/ checkpoints that I wanted to make my current prototype more interactable, adding animations to make it more user friendly or easy to understand. 
 
+However I think it's also important to keep the realisim part in mind, just seeing what I can do and if I have enough time to make this work. I find myself thinking too far ahead instead of focusing on prototyping first. 

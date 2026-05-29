@@ -79,6 +79,12 @@ I worked on this briefly and put it into one sentence.
 
 **"A city where public areas serve as emotional mirrors, enabling strangers to use touch-driven digital interfaces to silently perceive, acknowledge, and gently influence each other's inner states, turning anonymous crowds into welcoming, sympathetic micro-communities without the need for verbal communication or the loss of personal privacy."**
 
+I also did some rough sketches in class, 
+
+![alt text](../assets/week-09/ske.jpg)
+
+I envisioned it to be something on the side of a busstop (like those ad screens) or a QR code stuck to a lamp post? Or on one of those big commercial screens.
+
 2. Making Sprint
 
 Before beginning, take 10 minutes to plan your sprint. Draw on your draft project statement and the feedback you received. Identify what your project most needs right now: what will you develop and test? Set specific goals and consider what tools and materials you will need.
