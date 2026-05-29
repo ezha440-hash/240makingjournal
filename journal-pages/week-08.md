@@ -14,6 +14,7 @@ Share your progress report slideshow with a small group of peers. Before present
 
 Each person has 5 minutes to present, followed by group discussion and feedback. Assign the roles of Chair, Technical Commenter, and Conceptual Commenter for each presentation, rotating roles after each presenter. Record the feedback you receive for your journal entry.
 
+
 2. Critical Design Propositions
 
 Find a partner from a different group. Take turns (5 minutes each) to brief them on your project and the feedback you received.
@@ -33,7 +34,7 @@ Take turns (5 minutes each) to walk your partner through your proposition. Colle
 
 1. Reflective Summary
 
-Drawing on the feedback from your progress report and the critical design proposition you received, write a short reflective summary for your journal (around 300 words). Identify the most significant feedback and ideas you encountered, the decisions you are making in response, and how these will shape your project going forward. This is about translating the critique into a clear direction, not summarising everything that was said.
+**Drawing on the feedback from your progress report and the critical design proposition you received, write a short reflective summary for your journal (around 300 words). Identify the most significant feedback and ideas you encountered, the decisions you are making in response, and how these will shape your project going forward. This is about translating the critique into a clear direction, not summarising everything that was said.**
 
 One of the biggest concern I had for my proposition is the lack of direction. The starting point for me while creating this project was purely so that users would have fun interacting and nothing more. It was obvious that I had no clear future scenario. 
 
@@ -56,3 +57,4 @@ Redesign Proposal: Addition to sensory input of touch/ drag
 The reasoning for this is that so it would have additional layers of interactivity between people, for example, being able to pat the sad color blob to make it happy- offering a form on indirect support and care for others visual color. 
 
 I think this is a very interesting take on my project. I have mentioned in my key developments/ checkpoints that I wanted to make my current prototype more interactable, adding animations to make it more user friendly or easy to understand. 
+

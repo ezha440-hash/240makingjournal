@@ -55,14 +55,53 @@ Choose one of the variations your partner proposed and produce a drawing or plan
 
 Continue developing your project, building directly on the outcomes of today's Making Sprint and 'What if' Variations. As you work, address the technical skill gaps identified in your Week 6 roadmap. Document your learning alongside your making processes, including both textual and visual evidence. Reflect on what you tried, what you learnt, and how this has moved your project forward.
 
+I want to start with a figma, 
+
+![alt text](../assets/week-07/4.jpg)
+
 2. Progress Report
 
 Prepare a short, 5-minute progress report to share with a small group in next week's class. This should take the form of a simple slideshow (around 5 slides), covering:
 
-where your project currently stands
-key developments and decisions so far
-visual research/references
-two or three specific questions you want feedback on
-Come to class ready to present and to receive feedback from peers and teachers.
+**where your project currently stands**
 
-https://canva.link/d7uxbn7fpti66iy 
+I want to design and prototype an interactive installation for the Auckland Art Gallery that invites users to make a unique, in-the-moment contribution, a colour and a few words expressing their current feeling. Which is then anonymised and projected onto a shared public screen. The work is not a tool for personal reflection or clinical observation, but rather a space where each user's single, unrepeated contribution becomes raw material for a collective, ever-changing emotional portrait of the public.
+
+**Data source:**
+
+It would be self- input, so the bottom line would be that my data comes directly from what the user voluntarily tells me about their own emotional state, in the moment or near the moment, through simple, low-friction inputs that feel more like a mirror than a measurement.
+key developments and decisions so far
+
+**Personal drive:**
+
+I wanted to make something that treated emotional expression as public, fleeting and collective, not private. A space that allows the user to vent, to express their current emotion, where the only thing asked of you is a colour and a line, projected and then gone. I want to make that space because it’s the kind I want to exist in. 
+![alt text](../assets/week-07/3%20(1).jpg)
+
+Here’s a mock-up environment I did with the inside of the art gallery space.
+
+By the entrance, there will be a short description and a QR code next to it, which will then lead to the application thats connected to the projector. 
+
+**visual research/references**
+The Obliteration Room by Yayoi Kusama, rain room, by random international, Text Rain, Camille Utterback. 
+
+**What I have done so far**
+
+- mocked up my idea 
+- have some research 
+- a clear path to follow
+
+Checkpoints/ what I want to work on next 
+
+- Making the interface interactable 
+- Do more research 
+- Privacy issues...what can I do to prevent that? 
+
+**Two or three specific questions you want feedback on:**
+
+What is the single most unclear or underdeveloped part of the experience?
+
+Looking at my Figma mock-up, is there anything that could be done better? is anything confusing ?
+
+What's the one thing I should prioritize next week?
+
+What can I do better in general?
