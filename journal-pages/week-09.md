@@ -91,7 +91,14 @@ I have dones similar sprints in the previous weeks, so I continued and refined.
 
 <iframe src="https://editor.p5js.org/ezha440/full/bYQ6WT6HT" height= "400" width= "400"></iframe>
 
-Lastly, this is the one I am most happy with, it's small enough, with the hex box on the bottom and not super laggy. although the colours look less saturated. I don't think it's a huge problem. 
+Lastly, this is the one I am most happy with, it's small enough, with the hex box on the bottom and not super laggy. although the colours look less saturated. I don't think it's a huge problem. (OpenAI,2026)
+
+I also wanted to test out how to do the coloured blobs, just to sitmulate what it would look like. For this sprint, I'm choosing to vibe code it first. (OpenAI,2026)
+
+<iframe src="https://editor.p5js.org/ezha440/full/pcXBJ_A64" height= "400" width= "400"></iframe>
+
+This came out surprising? It looked really good?? It's really close to what I want to achieve as well. 
+
 
 3. Round Robin Rapid Reactions
 
@@ -174,4 +181,24 @@ https://www.youtube.com/watch?v=mSztdtmZ7FQ
 Two or three specific questions you want feedback on
 Come to class ready to present and to receive feedback from peers and teachers.
 
+## **Reference**
+
+Rain. (2024). RANDOM INTERNATIONAL. RANDOM INTERNATIONAL. https://www.random-international.com/rain-room
+
+
+Jonathan Harris, Sep Kamvar. We Feel Fine. 2009-ongoing. (2015). The Museum of Modern Art; MoMA. https://www.moma.org/collection/works/196071
+
+
+OpenAI. (2026). ChatGPT (May 15 version) [Large language model]. https://chat.openai.com/chat 
+
+
+Text Rain | Camille Utterback. (n.d.). https://camilleutterback.com/projects/text-rain/
+
+The Treachery of Sanctuary – Design & Research 21. (n.d.). https://desres21.netornot.at/interaction-design/the-treachery-of-sanctuary/
+
+
+Wellbeing statistics: 2023 (updated) | Stats NZ. (2023). Govt.nz. https://www.stats.govt.nz/information-releases/wellbeing-statistics-2023/?utm_source=nationaltribune&utm_medium=nationaltribune&utm_campaign=news
+
+
+‌Yayoi Kusama: The obliteration room. (2017, December 9). Auckland Art Gallery. https://www.aucklandartgallery.com/whats-on/exhibition/yayoi-kusama-the-obliteration-room
 

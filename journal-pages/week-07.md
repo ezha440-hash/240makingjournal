@@ -29,11 +29,11 @@ Make something visible from your data, however rough. The goal is a testable thi
 
 Refer to your Week 6 skills roadmap to guide what you work on. Collect documentation for your journal as you go.
 
-For the making sprint I wanted to make something that is useful for my project, Since I have something needed for color picking, I thought to use p5.js in order to make a color wheel. 
+For the making sprint I wanted to make something that is useful for my project, Since I have something needed for color picking, I thought to use p5.js in order to make a color wheel. (OpenAI, 2026)
 
 <iframe src="https://editor.p5js.org/ezha440/full/PgpsG3wj9" height= "400" width= "400"></iframe>
 
-I used vibe coding for this just to get started. It did show up a wheel, but it didn't have the picker. And also scale wise it was a bit too big. 
+I used vibe coding for this just to get started. It did show up a wheel, but it didn't have the picker. And also scale wise it was a bit too big. (OpenAI, 2026)
 
 <iframe src="https://editor.p5js.org/ezha440/full/wM87cP3Um" height= "400" width= "400"></iframe>
 
@@ -108,3 +108,7 @@ Looking at my Figma mock-up, is there anything that could be done better? is any
 What's the one thing I should prioritize next week?
 
 What can I do better in general?
+
+## **Reference**
+
+OpenAI. (2026). ChatGPT (Apr 24 version) [Large language model]. https://chat.openai.com/chat 

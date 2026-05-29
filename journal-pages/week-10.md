@@ -52,4 +52,33 @@ I started looking for more solutions to this issue. I'm sure there are better so
 
 So I chose to pivot.
 
-Giving up figma, I looked into using google forms. So its simply a QR code link to a google form 
+Giving up figma, I looked into using google forms. So its simply a QR code link to a google form, then linked to google sheet, which is then connected to the p5.js sketch. 
+
+Since I want my form to have the option of choosing and customizing the colours, I realized that it's not possible to have that in google forms. So I started looking at other form applications that allowed me to have that option. 
+
+I landed on "jotform." Which is a platform specifically made for forms and they have a widget option. 
+
+![alt text](../assets/week-10/jot.png)
+
+They also have the option to connect and link to a google sheet, which is wonderful :0 
+
+That didn't take long to set up, I chose to use personal account to set the sheet just because the uni email seems to be blocking it. 
+
+![alt text](../assets/week-10/feel.png)
+(it wasn't working for a bit so I let my anger out...I also asked my friends to test too...figured this is a pretty solid data)
+
+Now the hard part is getting this to connect to the p5.js sketch. With the rapid prototype I have done before, I really liked how the coloured blobs looked. I figured to just use that as base, and look up videos on how to link it to sheets. 
+
+I found a youtube video from David Bouchard (David Bouchard, 2021), and learnt how to publish my data set into something public and copying the link into a CSV link. 
+
+I also learnt a new function, called preload on p5.js. Which is A function that's called once to load assets before the sketch runs.(Preload, 2024)
+
+I bumped into some issues though however, In the video he used the consol to make his form on the scripting tool he's using. I soon realized I don't have that so looked for other options. 
+
+## **Reference**
+David Bouchard. (2021, September 21). RTA842 - 3.1 - Working with spreadsheets in p5.js. YouTube. https://www.youtube.com/watch?v=EU7SvAyybOE
+
+preload. (2024). P5js.org. https://p5js.org/reference/p5/preload/
+
+‌
+‌

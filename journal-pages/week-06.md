@@ -108,7 +108,7 @@ This reference reinforces my current direction because it shows how anonymous se
 
 Produce a drawing/diagram (either hand-drawn or digital) to illustrate what your final artefact might look like and how it might work. Include annotations to help explain the ideas. This does not need to be resolved as a drawing/diagram; the purpose of this task is to make your ideas visible and testable.
 
---add image
+![alt text](../assets/week-06/rough.jpg)
 
 Based off my previous idea, I wanted to focus on the "how can I visualize" part. Just running with the idea of having a physical model for now. 
 
@@ -140,11 +140,15 @@ Another important point raised was the ethical handling of personal data. This e
 
 **2.Technical Skill Building**
 
-Using the skils roadmap producd in class, address your first priority technical gap. Document your learning process, including both textual and visuaevidence, and incude refections on what you tried, what you learnt, and how this has helped you progress with your project development (e.g. bybuilding skills to take on the next step, or by revealing that you need to pivot because something isn't working).
+Using the skils roadmap producd in class, address your first priority technical gap. Document your learning process, including both textual and visual evidence, and incude refections on what you tried, what you learnt, and how this has helped you progress with your project development (e.g. by building skills to take on the next step, or by revealing that you need to pivot because something isn't working).
+
+One area I’ve identified for improvement is my limited experience with certain tools. To address this, I plan to deepen my understanding of how each piece of code functions, using resources such as the p5.js reference website. Additionally, in response to feedback regarding time constraints and material considerations, I am considering a pivot in my approach. However, I recognize that my concept needs further refinement before moving forward.
 
 **3.Initial Concept Sketch** 
 
 Building on the drawing/diagram produced in class, make a more developed sketch, a rough digital prototype, a physical mock-up, or a short codexperiment to visualise something - however provisional it might be - from your chosen dataset, Bring your sketch along to class next week.
+
+![alt text](../assets/week-07/draw.jpg)
 
 ## **Reference**
 
