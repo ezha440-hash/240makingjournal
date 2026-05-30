@@ -55,6 +55,14 @@ I prompt, "How could I make it so the blobs changes colours based on the hex str
 
 I knew that the url couldn't be the problem because I have seen it work. But it did mention that it's loading HTML instead of actual sheet data. So the color values was never proper hex strings. 
 
+I tried the code that was given to me by Chatgpt for the blob updates. (trying something is better than nothing) But it didn't change much other than making the blobs more far apart and after a minute it would just disappear. 
+
+I also wonder if it's because I didn't rename the row headers that why it wasn't picking up. 
+
+...
+
+WELL it's not. Because I changed that and nothing worked. I would need to go back to doing more research. 
+
 
 ## **Reference**
 
