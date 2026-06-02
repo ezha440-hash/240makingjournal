@@ -28,8 +28,6 @@ I certainly need more research, and rewrote my future scnario down to keep as a 
 
 **"A city where public areas serve as emotional mirrors, enabling strangers to use touch-driven digital interfaces to silently perceive, acknowledge, and gently influence each other's inner states, turning anonymous crowds into welcoming, sympathetic micro-communities without the need for verbal communication or the loss of personal privacy."**
 
-
-
 3. Showcase Planning
 
 Add yourself to the showcase Miro boardLinks to an external site. and mark your preferred location to install your work. Coordinate with the class to agree on a plan. Use the board, along with Canvas/Discord/etc. Be ready to install your work at 2 pm on Friday 05 June.
