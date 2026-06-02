@@ -28,6 +28,8 @@ I certainly need more research, and rewrote my future scnario down to keep as a 
 
 **"A city where public areas serve as emotional mirrors, enabling strangers to use touch-driven digital interfaces to silently perceive, acknowledge, and gently influence each other's inner states, turning anonymous crowds into welcoming, sympathetic micro-communities without the need for verbal communication or the loss of personal privacy."**
 
+
+
 3. Showcase Planning
 
 Add yourself to the showcase Miro boardLinks to an external site. and mark your preferred location to install your work. Coordinate with the class to agree on a plan. Use the board, along with Canvas/Discord/etc. Be ready to install your work at 2 pm on Friday 05 June.
@@ -59,11 +61,44 @@ I tried the code that was given to me by Chatgpt for the blob updates. (trying s
 
 I also wonder if it's because I didn't rename the row headers that why it wasn't picking up. 
 
-...
+Since I can't figure out how to make it color and connect, I just choose to vibe code the rest to get the effect I want. (openAI, 2026)
 
-WELL it's not. Because I changed that and nothing worked. I would need to go back to doing more research. 
+![alt text](../assets/week-11/noconnect.gif)
 
+The issue with this is that it isn't connected to the sheet but having colour is a great start. 
+
+![alt text](../assets/week-11/finalwtext.gif)
+
+I was so happy when this finally worked, it's connected to the google sheet and it shows up all the correct colors because of the hex strings. 
+
+However I am thinking of just removing the string text just so I could have a much more closer representation of what I think the project would look lik. 
+
+![alt text](../assets/week-11/finalntext.gif)
+
+And that's my final display! 
+
+I was went and put in more inputs for through the form, and waited for the load. It would roughly take about three minutes for it to upload to update, and the issue is because the connection with the form to to the sheets takes a while, I don't think there's much I can do since it's not related to the p5.js sketch. But for future projects I could look at using other programs.
+
+Despite using vibe coding, I still make sure I understand how the function works 
+
+So since the code is connected and linked to a google sheet, the program loads the spreadsheet as a CSV file and refreshes it every three seconds, allowing any changes made to the sheet to appear automatically on the canvas. and the code will also extracts text from the specific columbns, removes any color codes or names from displayed text using the stripColorCodes function, then looks for the colour info that can be used as the blob colours. (So in this case, I have hex codes, that's what the function picked up)
+
+After this, I put my form into a QR code generator and downloaded it, ready for the showcase in week 12. 
+
+![alt text](../assets/week-11/forms%20qr%20code.png)
+
+## **Project Statement:**
+
+**What if a city could feel with you?**
+
+This visualisation invites you into a near-future Aotearoa, a city where public spaces act as emotional mirrors. Here, strangers never need to speak to understand one another. Instead, touch-driven digital interfaces allow people to quietly share how they feel. A moment of grief, a flicker of joy, a quiet anxiety. Without words, without identities, without the loss of personal privacy, anonymous crowds transform into welcoming, sympathetic micro-communities.
+The floating, drifting blobs you see on this screen are not random. Each one represents a real person who scanned a QR code and answered a simple question about their current emotional state. That self-reported data flows directly from a Google Form into this living visualisation. The screen checks for new responses. As more people participate, more blobs appear, each one carrying only the emotional code someone chose to share, stripped of any identifying marks or colours they may have tried to add.
+
+Rather than presenting data as fixed numbers, charts, or statistics, this work explores alternative approaches to data representation. Emotions are subjective, fluid, and often difficult to quantify. By transforming responses into organic, shifting forms, the visualisation challenges the assumption that data must be objective or precise to be meaningful. The movement, colour, and interaction of the blobs emphasise the human experiences behind the dataset, encouraging viewers to consider data as something lived and felt rather than merely measured.
+The project critically engages with questions surrounding emotional surveillance, digital intimacy, and the ethics of sharing personal information in public spaces. While the future scenario proposes a more empathetic and connected city, it also raises questions about how emotional data might be collected, interpreted, and represented.
 
 ## **Reference**
 
 loadTable. (2025). P5js.org. https://p5js.org/reference/p5/loadTable/
+
+OpenAI. (2026). ChatGPT (May 29 version) [Large language model]. https://chat.openai.com/chat 
