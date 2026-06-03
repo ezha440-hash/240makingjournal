@@ -8,6 +8,8 @@ layout: default
 
 <iframe src="https://editor.p5js.org/ezha440/full/dnKKCydDB" height= "400" width="400"></iframe>
 
+## **Project Statement** 
+
 **What if a city could feel with you?**
 
 This work invites viewers into a near-future Aotearoa where public spaces act as emotional mirrors. In this imagined city, strangers never need to speak to understand one another. Instead, touch-driven digital interfaces allow people to quietly share how they feel, a moment of grief, a flicker of joy, a quiet anxiety. Without names or personal identifiers, anonymous crowds transform into temporary emotional communities connected through shared experience.
