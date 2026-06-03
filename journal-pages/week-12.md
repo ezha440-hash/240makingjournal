@@ -6,7 +6,7 @@ layout: default
 
 ## **Final Artefact**
 
-<iframe src="https://editor.p5js.org/ezha440/full/dnKKCydDB"height=800 width ="800"></iframe>
+<iframe src="https://editor.p5js.org/ezha440/full/dnKKCydDB" height="800" width ="800"></iframe>
 
 ## **Project Statement:**
 
