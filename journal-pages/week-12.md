@@ -6,9 +6,7 @@ layout: default
 
 ## **Final Artefact**
 
-<iframe src="https://editor.p5js.org/ezha440/full/dnKKCydDB" height="800" width ="800"></iframe>
-
-## **Project Statement:**
+<iframe src="https://editor.p5js.org/ezha440/full/dnKKCydDB" height= "400" width="400"></iframe>
 
 **What if a city could feel with you?**
 
